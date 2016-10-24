@@ -1,0 +1,27 @@
+footer {
+    margin-top: 20px;
+}
+
+.quoteWell {
+    margin-top: 90px;
+}
+
+.fa-quote-left {
+    color: #2b2d2f;
+    background: #eee;
+    border: 2px solid #ccc;
+    padding: 10px 12px;
+    border-radius: 100%;
+    position: absolute;
+    top: 45px;
+    left: 42%;
+}
+
+#block-quote {
+    background: white;
+}
+
+#new-quote {
+    float: right;
+    margin-right: 30px;
+}
